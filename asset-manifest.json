@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goals-lister/static/css/main.89141021.css",
+    "main.js": "/goals-lister/static/js/main.e2201f51.js",
+    "index.html": "/goals-lister/index.html",
+    "main.89141021.css.map": "/goals-lister/static/css/main.89141021.css.map",
+    "main.e2201f51.js.map": "/goals-lister/static/js/main.e2201f51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89141021.css",
+    "static/js/main.e2201f51.js"
+  ]
+}
